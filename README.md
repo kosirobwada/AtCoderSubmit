@@ -8,3 +8,6 @@ AtCoderでの精進記録です。
 
 また、2023/05/11以降はAtCoderのリポジトリに記録をつけています。
 
+# app.py
+
+app.pyはAtCoderで正解したコードを、GithubにPushするコードです。
